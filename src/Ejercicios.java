@@ -1,9 +1,9 @@
 public class Ejercicios
 {
 	//deveulve true si "numero" es par y false de lo contrario
-	//COMENTARIOS:
-	//AQUI comparamos todos los numeros divididos en dos si es asi devolvera
-	//verdadero si no devolvera Falso
+
+	//Devuelve verdadero si el residuo del numero da igual 0
+	//Si no devolvera Falso
 	static boolean esPar(int numero)
 	{
 		 if(numero%2==0)
